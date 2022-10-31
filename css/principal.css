@@ -511,28 +511,28 @@
 
 @font-face {
     font-family: 'Cormorant';
-    src: url('/font/Cormorant-Italic-VariableFont_wght.ttf') format('truetype');
+    src: url('../font/Cormorant-Italic-VariableFont_wght.ttf') format('truetype');
     font-style: italic;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'CormorantB';
-    src: url('/font/Cormorant-Bold.ttf') format('truetype');
+    src: url('../font/Cormorant-Bold.ttf') format('truetype');
     font-style: Bold;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('/font/Roboto-Regular.ttf') format('truetype');
+    src: url('../font/Roboto-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'GreatVibes';
-    src: url('/MiInvitacionBoda/font/GreatVibes-Regular.ttf') format('truetype');
+    src: url('../font/GreatVibes-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: normal;
 }
